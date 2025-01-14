@@ -14,7 +14,7 @@ export default async function About() {
             <div className="intro">
               <img
                 src="/imgs/me2.jpg"
-                alt="Dima Profile"
+                alt="Daniil Profile"
                 className="shadow-dark"
               />
               <h1>Daniil Yavtushenko</h1>

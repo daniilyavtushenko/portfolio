@@ -12,8 +12,8 @@ import ThemeSwitch from "@/components/panel/ThemeSwitch";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dima - portfolio",
-  description: "Dima - portfolio",
+  title: "Daniil - portfolio",
+  description: "Daniil - portfolio",
 };
 
 export default function RootLayout({
